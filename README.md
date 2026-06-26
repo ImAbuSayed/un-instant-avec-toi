@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-instant-avec-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un Instant Avec Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-instant-avec-toi/) |
+| **Get License** | [Commercial Licensing for Un Instant Avec Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-instant-avec-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1d549a755cdeec5387019717592436bf61f87c549941b41f9d3b225a94d3b645` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Instant Avec Toi
+
+This log tracks the cryptographic history and versioning for the song **Un Instant Avec Toi** (un-instant-avec-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T05:34:03.484785 | `v1` | `1d549a755cdeec5387019717592436bf61f87c549941b41f9d3b225a94d3b645` | `d4feab8c122bc1b456f80be0d9d348011d0756957150ca58f5c543e614b522a1` | `2026-06-27_un-instant-avec-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
