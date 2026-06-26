@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-instant-avec-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Un Instant Avec Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-instant-avec-toi/) |
+| **Get License** | [Get License For Un Instant Avec Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-instant-avec-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi dans les yeux, ce soir on arrête le temps
+> Un instant avec toi, c'est comme un rêve étincelant
+> Sous les néons de Paris, je sens ton corps qui m'attire
+> My baby, viens plus près, j'ai tout ce qu'il te faut pour sourire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
